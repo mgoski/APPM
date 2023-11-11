@@ -1,0 +1,9 @@
+1. Download dulu project nya
+2. Extract semua filenya ke directory C:\\xampp\htdocs\yourfolder
+3. Extract lagi file ujikom-appm.rar ke directory yang sama
+4. Edit file koneksi.php terdapat diluar directory admin dan petugas,dan juga berada didalam folder admin dan petugas
+5. Jalankan Aphace dan Mysql pada XAMPP atau cukup mengaktifkan file xampp_start.exe pada directory C:\xampp\
+6. Import database nya ke PhpmyAdmin
+7. Buka Browser lalu ketikkan http://localhost/yourfolder atau http://127.0.0.1/yourfolder
+
+Enjoyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 😁😁😁😁😁😁😁😁
