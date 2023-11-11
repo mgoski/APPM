@@ -56,11 +56,10 @@ Halaman **Dashboard User**
 ![5](https://github.com/mgoski/APPM/assets/142203248/a168aa7b-87d0-43e0-a792-603af5d1761f)
 
 Halaman **Dashboard Petugas**
-![6](https://github.com/mgoski/APPM/assets/142203248/85ac7f66-6625-434d-b9b3-f0b65018a635)
-
-Halaman **Dashboard Admin**
 ![7](https://github.com/mgoski/APPM/assets/142203248/d855c39b-d816-4516-8a4f-93e724b1a54f)
 
+Halaman **Dashboard Admin**
+![6](https://github.com/mgoski/APPM/assets/142203248/85ac7f66-6625-434d-b9b3-f0b65018a635)
 
 
 
